@@ -15,7 +15,10 @@ const colors = [
     "cornflowerblue",
     "darkkhaki",
     "hotpink",
-    "gold"
+    "gold",
+    "red",
+    "green",
+    "blue"
 ]
 
 const user = { id: "", name: "", color: "" }
