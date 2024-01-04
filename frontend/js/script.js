@@ -10,12 +10,6 @@ const chatInput = chat.querySelector(".chat__input")
 const chatMessages = chat.querySelector(".chat__messages")
 
 const colors = [
-    "cadetblue",
-    "darkgoldenrod",
-    "cornflowerblue",
-    "darkkhaki",
-    "hotpink",
-    "gold",
     "red",
     "green",
     "blue"
